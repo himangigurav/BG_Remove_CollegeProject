@@ -1,6 +1,5 @@
-
-//API Controller function to Mange clerl user with database
+//APIcontroller function to manage clerk user with database
 //http://localhost:4000/api/user/webhooks
-const clerkWebhooks = async (req,res) =>{
+const clerkWebhooks = async (req,res)=>{
     
 }
